@@ -3,11 +3,11 @@
 <br>
 Download & unzip, put the folder "chromedriver_win32" in the same folder as the file PopCat.py
 <br>
-Install Python and run!
+Install Python and run the command "pip install selenium" on Windows OS
 <br>
 <br>
 [VI] Đầu tiên các bạn cản tải ChromeDriver ở đây: https://chromedriver.chromium.org/downloads
 <br>
 Tải về & giải nén, bỏ thư mục "chromedriver_win32" vào chung thư mục với file PopCat.py
 <br>
-Cài Python rồi chạy thôi!
+Cài Python rồi chạy lệnh "pip install selenium" trên HĐH Windows
